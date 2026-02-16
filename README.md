@@ -1,7 +1,5 @@
 ## Hi! I'm Abel Fernández👋
 
-<!--
-**abel-fdz/abel-fdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ###🎓 I am currently enrolled in the **PARS Program** at **FIB (UPC)**, an integrated track for:
 - **MSc in Informatics Engineering** (Major in Computer Science)
@@ -16,4 +14,4 @@
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abel-fernández-leiva-9a34b9336/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abel.fernandez.leiva@estudiantat.upc.edu)
--->
+
